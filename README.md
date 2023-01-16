@@ -6,7 +6,7 @@ Using Linear - Regression to predict the price housing base on dataset
 # Decribe problem
 The dataset has some feature that affect on the mean housing price in Califonia and we will predict this price base on that data (The dataset i use can't public so you can find another dataset in the Internet)
 
-![feature-image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOxM7kGVYPRXTz1c_MzwedLrsAUNw_9-Pxw&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOxM7kGVYPRXTz1c_MzwedLrsAUNw_9-Pxw&usqp=CAU" width=80% alt="Android demo app" />
 
 # Idea 
 Loot at at the dataset, using analystic method we see that it's can describe as a regress - relation. So we can choose the most basic model - Linear regression
